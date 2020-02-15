@@ -1,0 +1,19 @@
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Ground.resources
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\yuval\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Ground.resources
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+G:\גיבוי\התוכונת שלי\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
